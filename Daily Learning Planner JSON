@@ -1,0 +1,35 @@
+{
+  "daily_learning_plan": {
+    "available_hours_per_day": 2,
+    "weekly_plan": {
+      "monday": {
+        "activities": [],
+        "duration": ""
+      },
+      "tuesday": {
+        "activities": [],
+        "duration": ""
+      },
+      "wednesday": {
+        "activities": [],
+        "duration": ""
+      },
+      "thursday": {
+        "activities": [],
+        "duration": ""
+      },
+      "friday": {
+        "activities": [],
+        "duration": ""
+      },
+      "saturday": {
+        "activities": [],
+        "duration": ""
+      },
+      "sunday": {
+        "activities": [],
+        "duration": ""
+      }
+    }
+  }
+}
