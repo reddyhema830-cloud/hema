@@ -1,0 +1,25 @@
+{
+  "feature": "Skill Gap Analyzer",
+  "inputs": [
+    "Current skills",
+    "Desired career",
+    "Experience level"
+  ],
+  "outputs": [
+    "Existing strengths",
+    "Required skills",
+    "Missing skills",
+    "Priority skills",
+    "Recommended learning order"
+  ],
+  "example": {
+    "career": "Cloud Engineer",
+    "skills": {
+      "Python": "Intermediate",
+      "Linux": "Beginner",
+      "Networking": "Beginner",
+      "AWS": "Beginner",
+      "Git": "Beginner"
+    }
+  }
+}
