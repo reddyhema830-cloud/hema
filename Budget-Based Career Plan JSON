@@ -1,0 +1,14 @@
+{
+  "budget_planner": {
+    "available_budget": "",
+    "currency": "INR",
+    "learning_preferences": [],
+    "free_resources": [],
+    "low_cost_resources": [],
+    "paid_resources": [],
+    "certification_budget": "",
+    "project_budget": "",
+    "monthly_learning_budget": "",
+    "cost_optimization_tips": []
+  }
+}
