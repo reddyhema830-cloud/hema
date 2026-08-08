@@ -1,0 +1,20 @@
+{
+  "student_profile": {
+    "education": "",
+    "branch": "",
+    "current_year": "",
+    "current_skills": [],
+    "interests": [],
+    "experience_level": ""
+  },
+  "career_goal": {
+    "desired_career": "",
+    "preferred_industry": "",
+    "alternative_career": ""
+  },
+  "constraints": {
+    "learning_hours_per_day": "",
+    "target_timeline": "",
+    "learning_preference": ""
+  }
+}
