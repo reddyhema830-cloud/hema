@@ -1,0 +1,16 @@
+{
+  "feature": "What-If Career Simulator",
+  "description": "Allows students to compare different career options before choosing a career path.",
+  "comparison": {
+    "career_1": "Cloud Engineer",
+    "career_2": "Data Scientist",
+    "parameters": [
+      "Required skills",
+      "Learning difficulty",
+      "Programming requirement",
+      "Project requirements",
+      "Certification areas",
+      "Suggested learning path"
+    ]
+  }
+}
