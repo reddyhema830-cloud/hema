@@ -1,0 +1,15 @@
+{
+  "solution_name": "CareerPath AI",
+  "description": "An AI-powered career planning application built using AWS PartyRock that converts a user's career aspiration into a personalized and achievable roadmap.",
+  "process": [
+    "Understand the user's current education and skills",
+    "Identify career interests",
+    "Analyze the desired career",
+    "Identify skill gaps",
+    "Create a personalized learning roadmap",
+    "Recommend projects",
+    "Suggest certification areas",
+    "Prepare resume and interview plans",
+    "Generate weekly action items"
+  ]
+}
