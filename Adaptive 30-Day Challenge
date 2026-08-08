@@ -1,0 +1,23 @@
+{
+  "feature": "Adaptive 30-Day Career Challenge",
+  "goal": "Convert a long-term career roadmap into small achievable tasks.",
+  "weekly_plan": {
+    "week_1": [
+      "Learn fundamentals",
+      "Practice basic concepts"
+    ],
+    "week_2": [
+      "Learn intermediate concepts",
+      "Complete practical exercises"
+    ],
+    "week_3": [
+      "Start a beginner project",
+      "Document the project"
+    ],
+    "week_4": [
+      "Complete the project",
+      "Update GitHub and resume",
+      "Practice interview questions"
+    ]
+  }
+}
