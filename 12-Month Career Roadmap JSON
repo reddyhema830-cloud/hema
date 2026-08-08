@@ -1,0 +1,40 @@
+{
+  "career_roadmap": {
+    "goal": "",
+    "duration": "12 months",
+    "months": [
+      {
+        "month": 1,
+        "focus": "",
+        "skills": [],
+        "activities": [],
+        "project": "",
+        "expected_result": ""
+      },
+      {
+        "month": 2,
+        "focus": "",
+        "skills": [],
+        "activities": [],
+        "project": "",
+        "expected_result": ""
+      },
+      {
+        "month": 3,
+        "focus": "",
+        "skills": [],
+        "activities": [],
+        "project": "",
+        "expected_result": ""
+      },
+      {
+        "month": 4,
+        "focus": "",
+        "skills": [],
+        "activities": [],
+        "project": "",
+        "expected_result": ""
+      }
+    ]
+  }
+}
