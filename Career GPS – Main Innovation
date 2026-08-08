@@ -1,0 +1,36 @@
+{
+  "feature": "Career GPS",
+  "purpose": "Convert a student's current position into a clear route toward the desired career.",
+  "stages": [
+    {
+      "stage": 1,
+      "name": "Current Location",
+      "description": "Analyze education, skills, interests, and experience."
+    },
+    {
+      "stage": 2,
+      "name": "Destination",
+      "description": "Identify the student's desired career."
+    },
+    {
+      "stage": 3,
+      "name": "Skill Gap",
+      "description": "Identify skills required for the target career."
+    },
+    {
+      "stage": 4,
+      "name": "Learning Route",
+      "description": "Create a personalized learning roadmap."
+    },
+    {
+      "stage": 5,
+      "name": "Career Checkpoints",
+      "description": "Recommend projects, certifications, resume preparation, and interview practice."
+    },
+    {
+      "stage": 6,
+      "name": "Job Ready",
+      "description": "Provide final career-readiness actions."
+    }
+  ]
+}
