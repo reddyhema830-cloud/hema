@@ -1,0 +1,37 @@
+{
+  "project_recommendations": {
+    "target_career": "",
+    "projects": [
+      {
+        "project_name": "",
+        "difficulty": "Beginner",
+        "problem_statement": "",
+        "technologies": [],
+        "skills_required": [],
+        "estimated_duration": "",
+        "portfolio_value": "",
+        "expected_output": ""
+      },
+      {
+        "project_name": "",
+        "difficulty": "Intermediate",
+        "problem_statement": "",
+        "technologies": [],
+        "skills_required": [],
+        "estimated_duration": "",
+        "portfolio_value": "",
+        "expected_output": ""
+      },
+      {
+        "project_name": "",
+        "difficulty": "Advanced",
+        "problem_statement": "",
+        "technologies": [],
+        "skills_required": [],
+        "estimated_duration": "",
+        "portfolio_value": "",
+        "expected_output": ""
+      }
+    ]
+  }
+}
